@@ -1,3 +1,6 @@
+This project is no longer supported and is archived. We're leaving the repository up for interested parties and historical research
+------------------------
+
 The Adafruit Pro Trinket Rotary Encoder project is an example for the ProTrinketHidCombo library.  ProTrinketHidCombo is a part of Adafruit's Pro Trinket USB HID Arduino Libraries. ProTrinketHidCombo allows the user to implement a simple USB keyboard and mouse inside the Arduino environment.
 
 Please see ProTrinketHidCombo.h for usage documentation, an example is also included
